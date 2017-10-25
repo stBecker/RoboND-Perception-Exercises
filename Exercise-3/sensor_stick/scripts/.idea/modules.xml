@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/scripts.iml" filepath="$PROJECT_DIR$/.idea/scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../RoboND-Perception-Project/pr2_robot/scripts/.idea/scripts.iml" filepath="$PROJECT_DIR$/../../RoboND-Perception-Project/pr2_robot/scripts/.idea/scripts.iml" />
       <module fileurl="file://$PROJECT_DIR$/../src/sensor_stick/.idea/sensor_stick.iml" filepath="$PROJECT_DIR$/../src/sensor_stick/.idea/sensor_stick.iml" />
     </modules>
   </component>
